@@ -1,7 +1,6 @@
 # GitHub Community Discussions
 
-In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
-
+이 리포지토리에서 다양한 제품 영역에 대한 범주를 찾을 수 있습니다. 피드백을 공유하거나, 다른 커뮤니티 구성원과 주제에 대해 토론하거나, 질문을 하세요.
 ## Product Feedback
 
 | **Feedback Category** | **About the Product** 	|
@@ -27,11 +26,11 @@ In this repository, you will find categories for various product areas. Feel fre
 |  💖  [Sponsors](https://github.com/orgs/community/discussions/categories/sponsors) 	| [GitHub Sponsors](https://github.com/sponsors) 	|
 | :octocat:  [General Feedback](https://github.com/orgs/community/discussions/categories/general) 	| [GitHub Docs](https://docs.github.com/en) |
 
-These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
+이러한 논의는 제품을 어떻게 개선해야 하는지에 대한 제안을 공유하고 GitHub 제품 팀의 구성원을 포함한 커뮤니티와 이러한 개선 사항을 논의할 수 있는 자리입니다. 피드백을 제공하는 방법에 대해 알아보려면 [제안하기](#제안하기)를 확인하십시오.
 
 ## Discussions Categories
 
-You will also find previous Discourse Community Forum categories that have since been updated in GitHub Discussions categories below:
+또한 아래 GitHub 토론 범주에서 업데이트된 이전 담화 커뮤니티 포럼 범주를 찾을 수 있습니다.:
 
 | **Discourse Category** | **New Discussions Category** 	|
 |---	|---	|
@@ -40,23 +39,22 @@ You will also find previous Discourse Community Forum categories that have since
 | GitHub Ecosystem 	| APIs and Integrations 	|
 | Uncategorized 	| General 	|
 
-When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
+새 게시물을 만들 때는 주제에 가장 적합한 미리 결정된 범주를 선택해야 합니다. 이렇게 하면 해당 제품이나 기능에 따라 대화가 색인화되어 커뮤니티 구성원이 질문에 대한 답을 빠르게 찾을 수 있습니다.
 
-This repository works in conjunction with the [GitHub public product roadmap](https://github.com/github/roadmap), which is where you can learn about what features we're working on, and when they'll be available. Accordingly, the Issues feature of this repository has been disabled. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the General category. Please review the [CODE OF CONDUCT](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct) before participating in discussions.
+이 저장소는 [GitHub 공용 제품 로드맵](https://github.com/github/roadmap),과 함께 작동하며, 여기서 NAT이 작업 중인 기능과 언제 사용할 수 있는지 확인할 수 있습니다. 따라서 이 리포지토리의 문제 기능이 비활성화되었습니다. 토론 카테고리는 위에 나열된 특정 기능과 다른 주제에 대한 일반 카테고리에 대해 설정되었습니다. 나중에 추가 범주가 추가될 수 있습니다. 한편, 위에 나열된 범주 외의 항목은 일반 범주로 전송됩니다. 토론에 참여하기 전에 [CODE OF CONTE](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)를 검토하십시오.
 
 ## Making suggestions
 
-We encourage you to [open a discussion](https://github.com/orgs/community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/community/discussions/1) for guidance on how to kick off a successful discussion.
+NAT 제품을 개선할 수 있는 방법에 대한 제안이 있으면 [토론](https://github.com/orgs/community/discussions)을 열어 보시기 바랍니다. 토론을 시작하기 위해 당면한 문제에 대한 해결책을 가지고 있을 필요는 없습니다. 생산적이고 협력적인 대화를 육성하고 싶으니, 성공적인 토론을 시작하는 방법에 대한 지침은 [좋은 피드백을 주는 방법](https://github.com/community/discussions/1)을 참조하십시오.
 
-Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
-
+새 토론을 작성하기 전에 이전 토론을 검토하여 다른 사용자가 이미 제안 내용을 공유했는지 확인하십시오. 유사한 토론이 발견되면 추가 세부 정보로 회신하거나 토론에 찬성표를 던져 새로운 토론을 만들지 말고 지지를 표시하십시오.
 ### From a suggestion to a shipped feature
 
-Once you kick off a discussion, the GitHub product team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities GitHub doesn’t have and explore the space for potential solutions to your problem statement:
+토론을 시작하면 GitHub 제품 팀이 피드백을 평가하지만 모든 제출에 응답할 수는 없습니다. NAT은 귀사와 전체 커뮤니티와 협력하여 GitHub에 없는 현재 기능을 이해하고 문제 해결 방안을 모색할 것입니다.
 
-- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/github/roadmap).
-- If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
+- 제품 팀에서 귀하가 식별한 문제를 해결하기 위해 기능의 우선 순위를 결정할 경우, 문제를 열어 [공개 로드맵](https://github.com/github/roadmap))에서 개발 상황을 추적할 수 있습니다.
+- 제품 팀에서 귀하가 식별한 문제를 해결하기 위해 노력하지 않을 것으로 판단될 경우, 우리는 우리의 결정을 투명하게 유지할 수 있도록 우리의 추론을 설명하는 토론에 의견을 제시할 수 있습니다.
 
 ## Disclaimer
 
-Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
+이 리포지토리에 있는 순수하게 과거가 아닌 모든 문장은 미래 지향적인 문장으로 간주됩니다. 이 저장소에 포함된 미래전망문은 작성된 날짜 기준으로 GitHub에서 사용할 수 있는 정보를 기반으로 하며, GitHub은 미래전망문을 업데이트할 의무를 지지 않습니다. 공개 피드백 논의의 미래 전망 논평은 제품이나 기능을 제공하거나 특정 날짜까지 제품과 기능을 제공하겠다는 약속, 보증, 의무 또는 약속을 나타내지 않으며, 일반적인 개발 계획을 개략적으로 설명하기 위한 것이다. 고객은 구매 결정을 내릴 때 이러한 공개 피드백 논의에 의존해서는 안 됩니다.
